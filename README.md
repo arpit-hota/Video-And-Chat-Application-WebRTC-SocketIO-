@@ -1,5 +1,5 @@
 # Mirror
-A real time messaging & video calling..
+A real time messaging & video calling application with simple UI and hasselfree communication
 
 
 # Installation
