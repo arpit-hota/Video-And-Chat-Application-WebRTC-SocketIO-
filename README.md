@@ -1,7 +1,6 @@
-# Mumble2
-A real time messaging & video calling. Youtube tutorial will be upload in the comming days.
+# Mirror
+A real time messaging & video calling..
 
-Live Demo: https://www.mumble2.dev/
 
 # Installation
 * 1 - clone repo https://github.com/divanov11/mumble2
